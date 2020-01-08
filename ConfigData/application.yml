@@ -1,4 +1,4 @@
 eureka:
     client:
         service-url:
-            defaultZone: http://eureka-secondary:8802/eureka/,http://eureka-primary:8081/eureka/
+            defaultZone: http://eureka-secondary:8082/eureka/,http://eureka-primary:8081/eureka/
